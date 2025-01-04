@@ -8,7 +8,7 @@ def can_be_palindrome(s):
        if v%2!=0:
             c=c+1
        if c>1:
-         print("No")
+         print("no")
        else:
          print("yes")
 
